@@ -12,7 +12,7 @@ public class SpringBootProjectWithDbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootProjectWithDbApplication.class, args);
-		System.out.println("tomcat start..");
+		System.out.println("tomcat start...");
 	}
 
 }
